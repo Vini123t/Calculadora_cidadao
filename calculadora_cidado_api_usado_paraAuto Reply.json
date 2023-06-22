@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "calculadora-cidad-o-bpdt",
+  "private_key_id": "d1b2d113af61951a21ae793ece9084556db98dba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSgnke5rcjmcyZ\ng1tqICcx0GR1LgDuFIMekXlsXaVjIOHEhQHce1N+yzU8hofpfiXdXkFEqEyyRZwH\nF42+1xbJAM5i/FxgUNZTtOOFj4kMW9lu56LZaNmQCzLR4zILCBiMBPGqXsElwU7G\nN8qE30RkvDg4/uluNvNmpQHLf03gqBbm7cQsByZ08JJ8Bn3xIFS6Jw2T/saI8k7m\nMSlLWXc9aEJFBapn+ideQfh6A8vuA0lGeWQqUixG5abh86levIQb4iPak2AxOg5m\nkHKrFGme2NXYey23FYQ59AStoMU4GyziROVKFuAomRg/szLhowMWS2UAK6788Vjt\nGJVcOIz7AgMBAAECggEAJp3RQv3Y479UGFpxK+XRruWYtPItOJObg+EgOhnsz9YI\n6/2K4gx3k4IIRC3JgRfI7zI6zdf2bz69w3jH2bdjwBNAUwLlblWgSGvzVG7i1qkX\nBI51dAyY28i32m6h8BpwLefXsupKyqLLGp/191PJ+StLPmqiKHS/bxyq/nJNmpsN\nZhUbgncyK5E8lsd94tNkq1mzD8DOxGaWCuiqdVE23fL18DPt5/HuFvnjoqO1yU3U\n9U8vVRDAuHviO5PqzSejQgu/zlltlRE9nmQm/IgCxcBJDtRH6ysMOvRqlXwxLtFC\nrg4BIjSJJlhrxfVmyfS75XpsUZoUInizPWXckOfHUQKBgQDCvkHJj8qIt8OMFuLM\n9k06iJuvoimh3K7Di+DropifSt7XkgKG6uadHVIPM4V2AXgkOU+5MFoE8ZtnAhgj\nvrv/twgS1xs7KHAE5/pa18r3a4pjKm/yrpVuuQzAlkIAZniHBzqihj9YI8t+W8Pt\nNjt2RGaUdY4dh2ZizmcmnPApjQKBgQDAmDMGQ96l8BsmWL+tJsqS0SZgrf0eqvCL\nxnWB8yeDdNYgZ4V2uCav2nFPYIbsxrLyf5mygFNrCsQtckbIgaTsduM6Nio46lY5\nR4xhYamMjcgMb2ys8pUEyV0IP++MyNNiI3hL1Otet6CL9Dgdsd+BSW1HomF98quR\n0SOEZxG6pwKBgFUDvbCCZ0ZcAq/rZcNYWsqMzHpV7prMvjZ7oAr+BmazxqiRAy1m\n6pn4LNSaB09GwO3/XwBXTVUPLGpBjcw8/dFaU9n1sduXgZ+CrdZukhqFBfrYkdp9\nwJp/ikOg1Ntb4I4B5+T/ejO+HJ3i7Ztmq3qrzaRN1Waqr1W/CWTf6jAZAoGBAJ9I\nwVp7I1dmH241lEFmhb+rTuxCucd1ZQCVIHZbXeCw7q9aLt2jLAvgxDn8AVsucq1w\nrvMcguFSxDE6BCSsZHRVV1S7m2v7E1jIPegEV6+xSzRNqznWXzzYNSMvjbWIGptd\n7o35CLkLcbKORyL4C3vn+IN4Xt1FqHQu3gsRG26dAoGAREWIGxIYz5bquaJbM+/P\nOAIBcUIDWjOZCAZRZE/zh2IVkXdUSbhsAZy8eKDOwFxz7vDbNTDK1SSLeTnKbAZ0\ngGRO6bV46OBO82ymoG/V2mH3kp2L0P+i3V5A251QseBPandHQ+YSKsw7iMZRHw+u\nuQsdfSHMwQaybCTOSZLzNzk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "calculadora-cidadao@calculadora-cidad-o-bpdt.iam.gserviceaccount.com",
+  "client_id": "102168709648207918534",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calculadora-cidadao%40calculadora-cidad-o-bpdt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
